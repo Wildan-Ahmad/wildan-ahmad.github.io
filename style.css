@@ -270,7 +270,7 @@ h3 {
     background-color: #4682B4;
 }
 
-@media screen and (max-width: 991.98px) {
+@media screen and (max-width: 670px) {
     .logo a {
         display: inline;
     }
