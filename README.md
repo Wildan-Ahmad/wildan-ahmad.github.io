@@ -1,1 +1,0 @@
-# wildan-ahmad.github.io
